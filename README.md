@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Lanternsong — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The journey map"><br><sub>The journey map</sub></td><td width="50%"><img src="assets/screenshot-tiles.png" alt="Endless Tiles"><br><sub>Endless Tiles</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-shop.png" alt="The Lantern Market"><br><sub>The Lantern Market</sub></td><td width="50%"><img src="assets/screenshot-results.png" alt="Stage clear"><br><sub>Stage clear</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
